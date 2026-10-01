@@ -218,4 +218,4 @@ Simple Machines Forum is a full free version with all features and updates inclu
 Ready to create your own online community? **Download Simple Machines Forum free** today and get started!
 
 ---
-**Last updated:** 2026-10-01 01:51:40 UTC
+**Last updated:** 2026-10-01 08:31:05 UTC
